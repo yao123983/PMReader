@@ -1,5 +1,9 @@
 # 原型图
 <https://org.modao.cc/app/578a54a90fbedcfcb3c12d3f06092a01>
+# E-R图
+![E-R图](https://github.com/yao123983/PMReader/blob/master/e-r%E5%9B%BE.png)
+# 用例图
+![用例图](https://github.com/yao123983/PMReader/blob/master/%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
 # 流程图
 ## 基本流
 ![基本流](https://github.com/yao123983/PMReader/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
@@ -88,7 +92,3 @@ LVS，CS架构
 4xxx 接口的对数据库的操作出现错误  
 ### 整体需求拓展  
 客户端认证授权  
-# E-R图
-![E-R图](https://github.com/yao123983/PMReader/blob/master/e-r%E5%9B%BE.png)
-# 用例图
-![用例图](https://github.com/yao123983/PMReader/blob/master/%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
